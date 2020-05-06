@@ -1,4 +1,4 @@
-baseURL = "https:/lite.cevtuogrnd.com"
+baseURL = "https://lite.cevtuogrnd.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
