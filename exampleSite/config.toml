@@ -82,7 +82,7 @@ description = "This is meta description"
 email = "cjw@cevtuogrnd.com"
 google_analitycs_id = ""
 location = "North Main Street,Brooklyn Australia"
-logo = "images/logo.png"
+logo = "images/1577090716910.png"
 mobile = "13580343586"
 multi_author = false
 [params.gmap]
