@@ -20,73 +20,70 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
+URL = "about"
+name = "About"
+weight = 1
 [[menu.footer]]
 URL = "project"
 name = "Project"
 weight = 2
 [[menu.footer]]
+URL = "service"
+name = "Service"
+weight = 3
+[[menu.footer]]
+URL = "pricing"
+name = "Pricing"
+weight = 4
+[[menu.footer]]
+URL = "faq"
+name = "FAQ"
+weight = 5
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "service"
-name = "Service"
-parent = "Pages"
-weight = 1
-[[menu.main]]
 URL = "project"
 name = "Project"
+weight = 2
+[[menu.main]]
+URL = "service"
+name = "Service"
 weight = 3
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 2
+weight = 4
 [[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-weight = 2
+hasChildren = true
+name = "Pages"
+weight = 5
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
-weight = 3
+[[menu.main]]
+URL = "pricing"
+name = "Pricing"
+parent = "Pages"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 4
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+weight = 6
 [params]
-author = "Themefisher"
+author = "cevtuogrnd"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "cjw@cevtuogrnd.com"
 google_analitycs_id = ""
 location = "North Main Street,Brooklyn Australia"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "13580343586"
 multi_author = false
 [params.gmap]
 enable = true
